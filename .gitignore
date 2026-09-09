@@ -1,0 +1,12 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.tmp
+*.bak
+
+# Git history replaces future manual HTML snapshots.
+# Existing snapshots are intentionally committed as the migration baseline.
+*.before-*.html
